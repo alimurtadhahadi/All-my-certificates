@@ -16,7 +16,7 @@ Here is the roadmap of the courses I have successfully completed:
 | 2 | Algorithms & Problem Solving Level 1 | Completed 🟢 | [View Certificate](./02%20-%20Algorithms%20%26%20Problem-Solving%20Level%201.pdf) |
 | 3 | C++ Level 1 (Fundamentals) | Completed 🟢 | [View Certificate](./03%20-%20Introduction%20to%20Programming%20with%20C%2B%2B%20–%20Level%201.pdf) |
 | 4 | Algorithms & Problem Solving Level 2 | Completed 🟢 | [View Certificate](./04%20-%20Algorithms%20%26%20Problem-Solving%20–%20Level%201%20(Solutions).pdf) |
-| 5 | C++ Level 2 (Advanced Concepts) | Completed 🟢 | [View Certificate](./C++_Level_2_Certificate.pdf) |
+| 5 | C++ Level 2 (Advanced Concepts) | Completed 🟢 | [View Certificate](./05%20-%20Algorithms%20%26%20Problem-Solving%20–%20Level%202.pdf) |
 | 6 | C++ Level 3 (Object Oriented Programming) | In Progress ⏳ | *Coming Soon* |
 
 ## 🧠 Core Skills Acquired
