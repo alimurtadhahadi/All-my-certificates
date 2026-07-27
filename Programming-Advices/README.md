@@ -14,7 +14,7 @@ Here is the roadmap of the courses I have successfully completed:
 |---|-------------|--------|-------------|
 | 1 | Foundations of Computer Science | Completed 🟢 | [View Certificate](./01%20-%20Programming%20Foundations%20-%20Level%201.pdf) |
 | 2 | Algorithms & Problem Solving Level 1 | Completed 🟢 | [View Certificate](./02%20-%20Algorithms%20%26%20Problem-Solving%20Level%201.pdf) |
-| 3 | C++ Level 1 (Fundamentals) | Completed 🟢 | [View Certificate](./Course_3.pdf) |
+| 3 | C++ Level 1 (Fundamentals) | Completed 🟢 | [View Certificate](./03%20-%20Introduction%20to%20Programming%20with%20C%2B%2B%20–%20Level%201.pdf) |
 | 4 | Algorithms & Problem Solving Level 2 | Completed 🟢 | [View Certificate](./Course_4.pdf) |
 | 5 | C++ Level 2 (Advanced Concepts) | Completed 🟢 | [View Certificate](./C++_Level_2_Certificate.pdf) |
 | 6 | C++ Level 3 (Object Oriented Programming) | In Progress ⏳ | *Coming Soon* |
